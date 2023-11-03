@@ -18,7 +18,6 @@ Additionally, it showcases parallel processing using threads.
 
 To assemble and run this code, you'll need:
 
-- An x86_64 compatible machine.
 - NASM (Netwide Assembler) for assembly.
 - A POSIX thread library for parallel processing.
 
