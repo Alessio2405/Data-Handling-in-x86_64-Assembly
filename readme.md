@@ -26,4 +26,4 @@ To assemble and run this code, you'll need:
 1. Assemble the code:
 
    ```bash
-   nasm -f elf64 extended_data_handling.asm -o extended_data_handling.o
+   nasm -f elf64 memory_allocation.asm -o memory_allocation.o
